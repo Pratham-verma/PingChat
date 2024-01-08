@@ -17,7 +17,7 @@ PingChat is a server-client based chat application designed to facilitate real-t
 
 1. **Clone the Repository**:
    ```
-  [ git clone https://github.com/your-username/PingChat.git](https://github.com/Pratham-verma/PingChat.git)
+   git clone https://github.com/Pratham-verma/PingChat.git
    ```
 
 2. **Compile the Code**:
