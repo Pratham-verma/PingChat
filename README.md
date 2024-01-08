@@ -45,8 +45,6 @@ Contributions are welcome! If you'd like to enhance PingChat or fix any issues, 
 
 ## Acknowledgments
 
-Special thanks to [mention anyone or any resources you used or got inspiration from].
+Special thanks to those who contribute and view my project.
 
 ---
-
-Feel free to personalize this template by adding more specific details about your project, such as additional functionalities, screenshots of the application, troubleshooting tips, or any other relevant information. This will help users better understand and engage with your project on GitHub.
